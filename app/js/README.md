@@ -1,4 +1,4 @@
-app JS files
+`app` JS files
 ================================================================================
 
 Store JavaScript code common to the entire application here.
