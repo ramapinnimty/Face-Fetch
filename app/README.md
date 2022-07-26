@@ -1,4 +1,4 @@
-# FaceFetch app
+# Face-Fetch Webapp
 
 ## Setup
 
