@@ -1,5 +1,6 @@
-This code repository is associated with our paper titled as "FaceFetch: an efficient and scalable face-retrieval System that uses your visual memory" which was presented as IEEE BigMultimedia 2020 (BigMM 2020) conference in Singapore.
+# Face-Fetch
+This is the official code repository associated with our paper titled **"FaceFetch: An Efficient and Scalable Face-Retrieval System that uses your Visual Memory"** which was presented as IEEE BigMultimedia 2020 (BigMM 2020) conference in Singapore.
 
-This is a Face-retrieval system that relies only on the slight impressions of the target face the person is searching for in a database of faces. Please read the freely available preprint of the paper (.pdf) which is in the current folder for details on the proposed system.
+Our framework is a face-retrieval system that relies only on the slight impressions of the target face of a person the user has envisioned. We do this by searching the target image from a database of faces in a fast, efficient and reliable manner.
 
-The instruction to run the FaceFetch webapp is written in the READMe file in the face-fetch/app/ folder.
+The step-by-step instructions to run the FaceFetch webapp are written in the README file within the `app` folder.
